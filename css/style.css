@@ -1,0 +1,166 @@
+/********** TAG SELECTORS **********/
+
+a {
+	color: #11999E;
+	padding: 0 1rem 0 1rem;
+	text-decoration: none;
+
+
+
+}
+
+body {
+	font-family: 'Merriweather', serif;
+	margin: 0;
+	text-align: center;
+}
+
+h1 {
+	color: #66BFBF;
+	font-family: 'Sacramento', cursive;
+	font-size: 5.625rem;
+	margin: 50px auto 0px auto;
+}
+
+h2 {
+	color: #66BFBF;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5rem;
+	font-weight: normal;
+	margin: 0px auto 50px auto;
+}
+
+h3 {
+	color: #11999E;
+	font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+	border-color: #EAF6F6;
+	border-style: dotted none none none;
+	border-width: 10px;  
+    margin: 0 auto 70px auto;
+    width: 7%;
+}
+
+html {
+	height: 100%;
+}
+
+/********** CLASS SELECTORS **********/
+
+
+.bottom-container {
+	background-color: #66BFBF;
+	padding-top: 2rem;
+	position: relative;
+}
+
+.backpacking-icon {
+	float: right;
+	margin: 0 0 41px 12px;
+	width: 25%;
+}
+
+.climbing-icon {
+	float: left;
+	margin: 9px 8px 0 0;
+	width: 25%;
+}
+
+.cloud-bottom {
+	position: relative;
+	bottom: 300px;
+	right: 8rem;
+}
+
+.cloud-top {
+	position: absolute;
+	top: 50px;
+	right: 300px;
+}
+
+.copyright-info {
+	color: #EAF6F6;
+	font-size: .9rem;
+	padding-bottom: 1.5rem;
+}
+
+.description-text {
+	color: #40514E;
+	display: inline-block;
+	line-height: 2;
+	margin: 0 auto 65px auto;
+	text-align: center;
+	width: 50%;
+}
+
+.middle-container {
+	margin-top: 70px;
+}
+
+.mountain {
+	position: relative;
+	right: 4rem;
+}
+
+.profile-image {
+	border-radius: 75%;
+	margin-bottom: 15px;
+	width: 20%;
+}
+
+.skill-row {
+	line-height: 2;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	width: 50%;
+}
+
+.top-container {
+	background-color: #C6F1E7;
+	padding-top: 100px;
+	position: relative;
+	text-align: center;
+}
+
+
+
+/********** Email Me Button **********/
+
+.email-me-button {
+	-moz-border-radius: 8px;
+	-moz-box-shadow: 0px 10px 14px -7px #C6F1E7;
+	-webkit-border-radius: 8px;	
+	-webkit-box-shadow: 0px 10px 14px -7px #C6F1E7;
+	background-color: #66bfbf;
+	border-radius :8px;
+	box-shadow: 0px 10px 14px -7px #C6F1E7;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 54px auto 100px auto;
+	padding: 13px 32px;
+	text-decoration: none;
+	text-shadow: 0px 1px 0px #3D768A;
+}
+
+.email-me-button:hover {
+	background-color: #84E1CB;
+}
+
+.email-me-button:active {
+	position: relative;
+	top: 1px;
+}
+
+
+
+
+
+/********** ID SELECTORS **********/
+
+
